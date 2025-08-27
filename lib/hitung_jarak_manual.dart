@@ -243,7 +243,7 @@ class _HitungJarakManualPageState extends State<HitungJarakManualPage> {
               if (jarak != null)
                 Padding(
                   padding: const EdgeInsets.symmetric(
-                      horizontal: 100, vertical: 20),
+                      horizontal: 100, vertical: 50),
                   child: Container(
                     padding: const EdgeInsets.all(16),
                     decoration: BoxDecoration(
